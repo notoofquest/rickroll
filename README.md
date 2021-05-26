@@ -4,4 +4,4 @@ A really simple redirection site to a YouTube link that is very familiar and has
 The repository name says it all! Use this to prank your friends. (Remember not to name your website rickroll otherwise you may be rickrolled back...)
 
 Link:
-https://oofquest.github.io/rickroll
+https://oof.aprim.xyz/computerroll
